@@ -1,11 +1,13 @@
 # IO= input / output
 
 # nombre = "Edward"
-#  #"puts" add a 'enter or /n after line',
+#  #"puts" add a 'enter' or '\n' after line',
 #  # while "prints" does not
-#  puts "Hello #{nombre}"
+
+#  		puts "Hello #{nombre}"
 #  # result= Hello Edward
-#  print "Hello #{nombre}"
+
+#  		print "Hello #{nombre}"
 #  # result= Hello Edward, without \n
 # -------------------------------
 
